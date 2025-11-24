@@ -32,4 +32,4 @@ The dataset includes:
 3. Refresh visuals and interact with slicers  
 
 ## 👍 Author
-Created by **Shabeeb**  
+Created by **Shebeeb**  
